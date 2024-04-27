@@ -23,3 +23,6 @@ Don’t miss out on the hottest coins. Our trending section highlights the crypt
 
 
 ## Demo
+<img width="949" alt="001" src="https://github.com/Prabhat12112002/Crypto-Curious/assets/94031787/08f6e1bf-0512-4469-8609-08d2e8ca819c">
+<img width="862" alt="002" src="https://github.com/Prabhat12112002/Crypto-Curious/assets/94031787/81a36606-e3bf-4279-8b32-26556a3f25fc">
+<img width="906" alt="003" src="https://github.com/Prabhat12112002/Crypto-Curious/assets/94031787/41a8acd6-b97d-469b-9cb4-a2ff0456c2e9">
