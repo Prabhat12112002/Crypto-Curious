@@ -1,6 +1,7 @@
 # Crypto Curious
 
 ## Live 
+https://cryptocurious12.netlify.app/
 
 
 # Introduction
